@@ -1,7 +1,7 @@
-import Form from "./components/Form/Form";
+import InfoForm from "./components/InfoForm/InfoForm";
 
 export default function App() {
   return (
-    <Form />
+    <InfoForm />
   );
 }
